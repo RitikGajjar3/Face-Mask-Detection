@@ -24,9 +24,9 @@ From the given image detect whether person is wearing a mask or not.
 <h2>📦 Data Overview</h2>
 The dataset contains two types of images.
     <br>
-        1. Person wearing Mask
+        1. Person wearing a Mask
     <br>
-        2. Person not wearing Mask
+        2. Person not wearing a Mask
 
 - E.g:  
 <p align="Center">
