@@ -28,7 +28,7 @@ The dataset contains two types of images.
     <br>
         2. Person not wearing Mask
 
-- e.g:  
+- E.g:  
 <p align="Center">
   
   <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542023-aff7aa80-326d-11eb-94d5-500ffd112ccd.jpg">
