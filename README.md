@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftryolabs.com%2Fblog%2F2020%2F07%2F09%2Fface-mask-detection-in-street-camera-video-streams-using-ai-behind-the-curtain%2F&psig=AOvVaw0RGtPQAtDHACnAsBEjSRkD&ust=1606739431046000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDzjf7gp-0CFQAAAAAdAAAAABAJ">
+  <img width="600" height="350" src="https://tryolabs.com/blog/images/blog/social/2020-07-09-face-mask-detection-in-street-camera-video-streams-using-ai-behind-the-curtain.22b74ac9.png">
 </p>
 
 <h2>📘 Problem statement:</h2>
