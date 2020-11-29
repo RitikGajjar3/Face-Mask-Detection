@@ -1,4 +1,4 @@
-# <p align="center">Face-Mask-Detection</p>
+# <p align="center">Face-Mask-Detection 😷</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
@@ -23,7 +23,9 @@ Explore the dataset and explore different pokemon. Create a Pokemon Classifier w
 
 
 <h2>📦 Data Overview</h2>
-The dataset contains images of Different Pokemons.
+The dataset contains two types of images.
+    1. Person wearing Mask
+    2. Person not wearing Mask
 
 - e.g:  
 <p align="Center">
@@ -65,9 +67,9 @@ Jupyter notebook (IPython)
 
 ## 📚 Credits and Links
 ```python
-Image("https://www.theverge.com/2016/2/27/11116786/best-pokemon-20th-anniversary-eevee-squirtle-gyarados-nintendo-day")
+Image("https://tryolabs.com/blog/2020/07/09/face-mask-detection-in-street-camera-video-streams-using-ai-behind-the-curtain/")
 
-The original dataset is prepared by
+The original dataset is prepared by Prajna Bhandary
 Dataset("https://github.com/prajnasb/observations/tree/master/experiements/data")
 ```
 
