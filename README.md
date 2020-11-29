@@ -35,13 +35,13 @@ The dataset contains two types of images.
   <br>
   <br>
   
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/100542042-d289c380-326d-11eb-944f-fc62ac524509.jpg">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542042-d289c380-326d-11eb-944f-fc62ac524509.jpg">
   <br>
   Person wearing mask
   <br>
   <br>
   
-   <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/100542066-f220ec00-326d-11eb-9597-747030158708.jpg">
+   <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542066-f220ec00-326d-11eb-9597-747030158708.jpg">
    <br>
    Person not wearing mask
 
