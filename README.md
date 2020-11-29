@@ -19,8 +19,7 @@
 </p>
 
 <h2>📘 Problem statement:</h2>
-Explore the dataset and explore different pokemon. Create a Pokemon Classifier which classifies different pokemon like Pikachu, Bulbasaur, and Charmander.
-
+From the given image detect whether person is wearing a mask or not.
 
 <h2>📦 Data Overview</h2>
 The dataset contains two types of images.
@@ -30,21 +29,21 @@ The dataset contains two types of images.
 - e.g:  
 <p align="Center">
   
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025174-b71dba00-a9a8-11ea-9d0a-87bcc6611991.jpg">
+  <img width="200" height="200" src="https://github.com/RitikGajjar3/Face-Mask-Detection/issues/1">
   <br>
-  Pikachu
-  <br>
-  <br>
-  
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025278-e59b9500-a9a8-11ea-845e-0d44f8ad8c2e.jpg">
-  <br>
-  Charmender
+  Person wearing mask
   <br>
   <br>
   
-   <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/84025234-d3b9f200-a9a8-11ea-8172-d59996c5713a.jpg">
+  <img width="200" height="200" src="https://github.com/RitikGajjar3/Face-Mask-Detection/issues/2">
+  <br>
+  Person wearing mask
+  <br>
+  <br>
+  
+   <img width="200" height="200" src="https://github.com/RitikGajjar3/Face-Mask-Detection/issues/3">
    <br>
-   Bulbasaur
+   Person not wearing mask
 
 </p>
 
