@@ -23,7 +23,9 @@ From the given image detect whether person is wearing a mask or not.
 
 <h2>📦 Data Overview</h2>
 The dataset contains two types of images.
+    <br>
     1. Person wearing Mask
+    <br>
     2. Person not wearing Mask
 
 - e.g:  
@@ -31,19 +33,19 @@ The dataset contains two types of images.
   
   <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542023-aff7aa80-326d-11eb-94d5-500ffd112ccd.jpg">
   <br>
-  Person wearing mask
+  Person wearing a mask
   <br>
   <br>
   
   <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542042-d289c380-326d-11eb-944f-fc62ac524509.jpg">
   <br>
-  Person wearing mask
+  Person wearing a mask
   <br>
   <br>
   
    <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542066-f220ec00-326d-11eb-9597-747030158708.jpg">
    <br>
-   Person not wearing mask
+   Person not wearing a mask
 
 </p>
 
