@@ -29,7 +29,7 @@ The dataset contains two types of images.
 - e.g:  
 <p align="Center">
   
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/40620782/100542023-aff7aa80-326d-11eb-94d5-500ffd112ccd.jpg">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/40620782/100542023-aff7aa80-326d-11eb-94d5-500ffd112ccd.jpg">
   <br>
   Person wearing mask
   <br>
